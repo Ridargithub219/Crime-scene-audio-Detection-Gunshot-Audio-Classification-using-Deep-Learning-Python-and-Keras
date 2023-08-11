@@ -3,6 +3,6 @@
  Check out the working of this noteboook here-https://www.kaggle.com/code/ridakhan7861/crime-detector/edit
 # 2)An Exploratory-Data-Analysis on all Fire-Arm Crimes committed in India
 A visual and analytical EDA, walkthrough to understand all the crimes committed in India using firearms/gun ammunitions 
-
 https://www.kaggle.com/code/ridakhan7861/crimes-in-india-using-firearms?scriptVersionId=139570893
+
 ![__results___62_0](https://github.com/Ridargithub219/DeepLearning---Crime-Series--Special-files-/assets/134956343/3fdf23be-5f3e-4c35-8581-d90eed9442e0)
